@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MacheroKiller
 - 👀 I’m interested in Web Developmnet
-- 🌱 I’m currently learning Python and JS
+- 🌱 I’m currently learning NestJS
 - 💞️ I’m looking to collaborate on my U
 
 <!---
